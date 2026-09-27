@@ -8,7 +8,7 @@ After the business of the EGM had concluded one of our new members, Norman Dunba
 
 Norman's presentation and comprehensive notes are available for download from Norman's GitHub account.
 
-* The [presentation slides](https://github.com/NormanDunbar/T-Exchange/releases/download/latest/ArduinoLibraryPresentation.pdf) as a PDF file.
-* The [copius notes](https://github.com/NormanDunbar/T-Exchange/releases/download/latest/ArduinoLibraries.pdf), also as a PDF file.
+* The [presentation slides](https://github.com/NormanDunbar/T-Exchange/releases/download/Release_1a/ArduinoLibraryPresentation.pdf) as a PDF file.
+* The [copius notes](https://github.com/NormanDunbar/T-Exchange/releases/download/Release_1a/ArduinoLibraries.pdf), also as a PDF file.
 
 
