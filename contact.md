@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Contact
-permalink: /contact/
 ---
 
 # WARNING: This is not a functional form at present. It will need to be fixed with an actual URL to submit the form. NDunbar 26/09/2026.

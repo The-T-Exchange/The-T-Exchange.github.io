@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About
-permalink: /about/
 ---
 
 We are the T-Exchange, a registered Makerspace established eight years ago and currently specialising in a range of technologies including Raspberry Pi, Arduino micro-controllers, 3D printers and Robotics. 

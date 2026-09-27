@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Diary
-permalink: /diary/
 ---
 
 We normally meet at Findhorn Village Centre. 

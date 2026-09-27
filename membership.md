@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Membership
-permalink: /membership/
 ---
 
 As a charitable organisation we decided a year or so ago to move from a monthly attendance fee to an annual membership fee (January--December). This has simplified our charity accounting and removed the need to collect an attendance fee at each monthly meeting. Currently the annual Adult Membership is set at £25 per annum payable each January or from the date of second attendance.
