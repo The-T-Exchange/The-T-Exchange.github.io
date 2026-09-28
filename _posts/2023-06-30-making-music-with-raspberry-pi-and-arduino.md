@@ -8,4 +8,6 @@ Mark will demonstrate his own self made Arduino synthesizer, and will show us ho
 
 Last but not least he will give an overview about freely available software for the Raspberry Pi to generate sounds and edit or compose music.
 
-**NOTE: Needs 3 Images here**
+![Looking inside 'The Wee Synth' at all the switches and potentiometers inside it.](/images/TheWeeSynth-inside-768x914.jpg)
+![Another internal view of a Wee Synthesiser.](/images/TheWeeO3-inside-768x432.jpg)
+![The top view of the Zynthian showing all its knobs and buttons.](/images/zynthian-768x432.jpg)

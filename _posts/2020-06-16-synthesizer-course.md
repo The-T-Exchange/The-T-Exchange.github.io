@@ -10,4 +10,4 @@ The course will take place via ZOOM, if you are interested please get in touch u
 
 The course is free but donations to the T-Exchange’s PPE just giving page is very much welcomed. [https://www.justgiving.com/crowdfunding/ppefacevisorsformoray](https://www.justgiving.com/crowdfunding/ppefacevisorsformoray).
 
-**NOTE: Needs image, linking to YouTube here**
+[![The 'Free Synthesiser Course' on You Tube.](/images/Synthesizer-course.png)](https://www.youtube.com/watch?v=1mAyGNA_fmA)
